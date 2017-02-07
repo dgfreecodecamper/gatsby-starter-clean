@@ -20,6 +20,7 @@ export default class Index extends React.Component {
         </h1>
         <p>Welcome to your new clean Gatsby site</p>
         <p>This is an additiona line that I have added</p>
+        <p>this is another line that i have added from my local computer</p>
       </div>
     )
   }
